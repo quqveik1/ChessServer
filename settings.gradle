@@ -1,3 +1,1 @@
 rootProject.name = 'ChessServer'
-include ':externalLib'
-project(':externalLib').projectDir = new File('C:\\Users\\Kurlic\\Desktop\\Progs\\LabyrinthServerMaven\\src\\main\\java')

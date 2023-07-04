@@ -12,3 +12,6 @@ data class Player(
     val id: Long? = null,
     val androidID: String
 )
+{
+    constructor() : this(null, "")
+}
